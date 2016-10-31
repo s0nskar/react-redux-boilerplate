@@ -65,11 +65,16 @@ for further instruction go to [redux-logger](https://github.com/evgenyrodionov/r
 #### redux-thunk
 Thunk middleware for redux. Redux thunk can be used to dispatch function instead pure object action creator. This can be useful if you're fetching data asynchronously. For further instruction head over to [redux-thunk](https://github.com/gaearon/redux-thunk)
 
+#### redux-saga
+redux-saga is a library that aims to make side effects (i.e. asynchronous things like data fetching and impure things like accessing the browser cache) in React/Redux applications easier and better. For more information [redux-saga](https://github.com/yelouafi/redux-saga)
+
 #### Awesome
 For more awesome stuff about React and Redux head over to
 + [awesome-react](https://github.com/enaqx/awesome-react)  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 + [awesome-redux](https://github.com/xgrommx/awesome-redux)  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
+---
+>>> You can checkout [create-react-app](https://github.com/facebookincubator/create-react-app) for a production ready react boilerplate.
 ---
 
 ##### LICENSE
